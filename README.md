@@ -1,4 +1,4 @@
-# State-Wise-Stock-market-Sentiment-Analysis-Using-Web-Scraping-And-KeyBERT
+# State-Wise-Stock-Market-Sentiment-Analysis-Using-Web-Scraping-And-KeyBERT
 
 **KeyBERT** :  KeyBERT is a minimal and easy-to-use keyword extraction technique that leverages BERT embedding’s to create keywords and key phrases that are most similar to a document.
 
