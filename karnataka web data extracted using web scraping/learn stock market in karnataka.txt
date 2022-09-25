@@ -1,0 +1,337 @@
+By clicking Agree & Join, you agree to the LinkedIn User Agreement, Privacy Policy, and Cookie Policy.
+
+Already on Linkedin? Sign in
+
+There are many incidents about people who have tried to garnerfortunes from the stock markets and have in turn suffered huge losses. However, that is just one side of the story. Trading being a zero-sum game, for every person who loses a fortune, there is another person who has earned it from him. So, how do you ensure that you are the latter?
+
+The answer is: get educated. Undergoing a trading courseis one of the steps to success in the markets, and it is strongly recommended that every beginner shouldenrol in one. The experienced traders should also consider enrolling for advanced trading courses to sharpen their existing skills and to learn about additional productsto broaden their trading horizon.
+
+Where to get a trading education?
+
+There are many institutes which offer trading courses of different types and complexities. However, it is worthwhile to remember that trading education should ONLY be taken from an institution with a proven track record and experience in practical trading as well. I run one such academy in India named Kredent Academy. It is a part of the Kredent Group, a well-recognised name in the Indian financial markets. The Academy draws from the vast practical experiencethat the group possesses. Some of our courses also include trading sessions in live market environments which are essentialto build up the students’ confidence. If you're comfortable with the online learning environment, explore free & paid online financial market courses on Elearnmarkets.com 
+
+Trading education will make you market ready:                     
+
+The following are the key benefits you will get from getting a proper education:
+
+The stock market is akin to a battlefield. While you are trading, you are pitted against smart and experienced traders out there.If you have to win this battle, you have to be better than them. A trading course will give you in-depth concepts about stock trading andsome important tools and techniques that will help you to succeed.
+
+While it is important to make money in the markets, it is vitally important that you protect your capital too. A proper education will enable you to understand that risks of the market and how to stay protected.
+
+Every trader needs to have the right psychology to succeed. A trading course will help you to understand and develop yourself, as well as understand the market psychology deeply.
+
+In the stock markets, opportunities do not last forever. So unless you are quick, you will miss opportunities for making money. Most trading courses have sessions which will help the students to improve upon the speed at which they place their orders.
+
+You will get to know the common do’s and don’ts of trading which will allow you to stay safe and profitable.
+
+Your instructor in the trading course will help you to create a Trading Plan for yourself. It will be a crucial document to help you to be disciplined while trading.
+
+Most trading courses offer mentoring or doubt clearance sessions to the students for a certain period after the courses get completed. This is crucial for you to understand and rectify the initial mistakes that you would be making while trading. They will also give you additional inputs that will help you to succeed as a trader.
+
+Let me know if you would like to add something to this list. You might have questions regarding the need of education for becoming a successful trader. Put them here. I will try my best to help. 
+
+To view or add a comment, sign in
+To view or add a comment, sign in
+
+Hey there! This article is based on our second year major project of KL University named SDP(skill development project). On this regard a research work should be published. How we interacted with the user and what are the key insights that we gained and how we are going to design our project is this article all about.
+
+Team Mates :
+
+1) VENKATA SOWMYA KANCHARLA
+
+2)KONDAVEETI SRAVANI
+
+3)YAMINI CHOWDARY VAKALAPUDI
+
+Our batch number is 485
+
+Introduction :
+
+The Stock Exchange Management System (SEM) refers to the system and processes to manage the stock of organization with the involvement of Technology system. The stock exchange represents the key institution for the development of capital market of any country. Thus the information system of every stock exchange must satisfy very strict international standards. The development of these systems is particularly difficult in countries in transition, due to intense economic and legal changes, lack of technical and financial resources, lack of experience and knowledge in the area of the capital market business, etc. Therefore the special software project management methodology for their realization must be clearly defined.
+
+Capital Market : Capital market is where both equity and debt instrument like equity shares, preference shares, debentures, bonds, etc. are bought and sold.
+
+Functions of Capital Market:
+
+Classification:
+
+There are two types of capital market
+
+1. Primary market - The primary market is a new issue market; it solely deals with the issues of new securities. A place where trading of securities is done for the first time.
+
+Functions of Primary Market:
+
+2. Secondary market - The secondary market is a place where trading takes place for existing securities. It is known as stock exchange or stock market. Here the securities are bought and sold by the investors. 
+
+Functions of Secondary Market:
+
+What actually is Stock Exchange?
+
+Stock Exchange is an association or a individual which is established for the purpose of assisting, regulating, and controlling business in buying, selling and dealing in securities.
+
+Functions of Stock Exchange:
+
+Objectives and Goals of SEM:
+
+1. To provide a fair, transparent and efficient securities market to investors using electronic trading system.
+
+2. To establish nationwide trading facility for equities and debt instruments.
+
+3.To ensure equal access to investors all over the country through an appropriate communication network.
+
+ABSTRACT:
+
+The stock exchange represents the key institution for the development of capital market of any country. Thus the information system of every stock exchange must satisfy very strict international standards. The development of these systems is particularly difficult in transition, due to intense economic and legal changes, lack of technical and financial resources, lack of experience and knowledge in the area of the capital market business, etc. Therefore the special software project management methodology for their realization must be clearly defined. In order to make all the problems more comprehensive trading method in the world is used.
+
+SURVEY:
+
+THE STOCK EXCHANGE MANAGEMENT SYSTEMS SURVEY will be conducted by our team members where we can understand the requirements of the users as well as the problems being faced by them The stock exchange represents one of the key institutions responsible for proper functioning of economy as a whole. This fact is true for all countries and helps explain why so much attention is given to regulation, monitoring and advancement of the exchanges. In order to gain the trust of all the participants in the capital market, the stock exchange is made completely transparent, so to speak, yet completely secure. It means that the trading rules on the stock exchange are known to the public, but the way in which the actual stock exchange works and the way in which these rules are implemented remains a well kept secret. Therefore no specific information can be obtained about the information systems of the stock exchange, only some general specifications of technical infrastructure.
+
+MODULES:
+
+We are thinking of four modules which consists of :
+
+1. The development of the system that would handle the trading of bonds
+
+2. Expanding the system by introducing new trading methods
+
+3. Trading with all market materials
+
+4. Introducing remote access Development and implementation of the stock exchange information system represents a responsible and difficult task, the realization of which require substantial financial resources, as well as human and technical resources. Limited material, staff and technical resources were the main factors that influenced many countries that were undergoing a period of transition to take over the stock exchange information systems of countries with developed market economies.
+
+PROJECT MANAGEMENT METHODOLOGY :
+
+Project management is mainly defined as being able to apply skills, knowledge and techniques in such a way as to finish all the necessary work and jobs that the project itself demands, or, in other words, that are vital to the successful completion of the project. Therefore the analysis was made of all previously existing project management methodologies. The conclusion drawn from this analysis was that the chosen methodology must always be clearly defined and applicable to most IT projects.
+
+Contents of the article and the concepts:
+
+I) Photos during the interaction, interviews and conducting surveys:
+
+II) Charts and graphs on surveys we conduct - using google forms survey.
+
+III) Video recording - (Interview with users)
+
+IV) Online Research Links:
+
+A number of brokerages and financial institutions provide online platforms for exchanging currency, .These platforms provide buy and sell prices, charts for trend analysis and economic reports to help with exchange decisions. Banks, hedge funds and traders use these types of platforms to speculate in currencies, trying to generate returns for their clients or themselves. Despite the risks associated with buying and selling currencies , it’s one of the best ways to exchange large sums of money.
+
+        
+
+    Online Searching portals:
+
+1.)https://www.5paisa.com/online-trading
+
+2.) https://ttweb.indiainfoline.com/trade/login.aspx
+
+3.) https://trade.angelbroking.com/
+
+4.) https://upstox.com/
+
+5.) https://www.edelweiss.in/market
+
+V) The customer journey map :
+
+One of the advantages of the stock exchange is that is enjoys economies of scale because so much money passes through it. This helps to keep costs low, making it less expensive to buy and sell stocks.
+
+A stock exchange can use millions of transactions to spread fixed costs of setting up and maintaining orderly and secure trading
+
+Our customer journey map link
+
+https://custellence.com/app/public/40207017
+
+VI) User persona :
+
+A user persona is a semi-fictional character based on your current or ideal customer. Personas can be created by talking to users and segmenting by various demographic and psychographic data to improve your product marketing.
+
+VII) Empathy Map
+
+An empathy map is a collaborative tool teams can use to gain a deeper insight into their customers. Much like a user persona, an empathy map can represent a group of users, such as a customer segment.
+
+An Affinity Diagram is a tool that gathers large amounts of ideas, opinions, issues and organizes them into groupings based on their natural relationships. The Affinity process is often used to group ideas generated by Brainstorming.
+
+Customer Journey Map:
+
+Customer journey mapping also called user journey mapping is the process of creating a visual story of your customers' interactions with your brand. This exercise helps businesses step into their customer's shoes and see their business from the customer's perspective.
+
+IX) Meeting with SDP2 Our Faculty Team (Recording)
+
+(will be updated soon)
+
+X) The Final List Of Users:
+
+Most of the people these days tend to buy stocks online; it's much easier and quicker. Therefore, it's only natural that this activity is growing more interest and desire for people to try it themselves.
+
+1)stock buyers
+
+2)stock sellers
+
+3) invested people(to keep a track on their stock prices)
+
+4) working in stock markets
+
+XI) User Stories For Each User:
+
+Note: Permission has been taken from all the people shown in this article to upload it.
+
+*********************************************
+
+All the content present in this article is original work of SDP - 2 (Batch-485)
+
+Reuse of the same content is strictly prohibited except for purposes such as criticism, comment, news reporting, teaching, scholarship and research.
+
+Author's written permission to be taken in prior to reuse the content.
+
+*************************************************
+
+Thank you!!!
+
+No discussion on cricket is complete without talking about Mahendra Singh Dhoni. He is the pioneer of the helicopter shot. A blistering shot which mimics a helicopter and flies over the fielders for a six. When Dhoni first began playing for India, his hairstyle was as much a talking topic as his helicopter shot. His long hairstyle was praised by none other than former Pakistan President Pervez Musharraf.
+
+A young Dhoni was made captain of the Indian T20 team and he won the T20 World Cup 2007, on the very first edition itself. A few years later under the captaincy of M S Dhoni, India became the Number 1 Test Team in the World. His crowning moment came in the ODI World Cup 2011 played in the Indian subcontinent, where under his captaincy; India won the ODI World Cup. Dhoni promoted himself up the order and came in at Number 5, ahead of Yuvraj Singh who was in red hot form. Dhoni scored 91 not out from just 79 deliveries and finished the match hitting Sri Lankan fast bowler Nuwan Kulasekara for a huge 6…. Mission Accomplished….
+
+M S Dhoni is known by many names. Captain Cool….Best Finisher in ODI’s….Why, even a movie was made on him called “The Untold Story” which was a superhit. In 2006, Dhoni was voted as the MTV Youth Icon. He won the ICC ODI Player of the year for two consecutive years in 2008 and 2009. He has also won the Padma Shri and Rajiv Gandhi Khel Ratna awards. He was honored with the rank of Lieutenant Colonel by the Indian Army. So what can you learn from Captain Cool…The greatest finisher in modern day cricket? These are some winning traits from this sporting giant which can help you become a great investor.
+
+Want to know more on investment planning? Just leave a missed call on IndianMoney.com financial education helpline 02261816111 or just post a request on IndianMoney.com website. IndianMoney.com offers Free, Unbiased and on-call financial advice on Insurance, Mutual Funds, Real Estate, Loans, Bank Accounts and Capital markets.
+
+ How many times has Dhoni pulled his team out of a crisis and helped India win matches? Countless times….Is it his batting skills alone that win India matches? No…
+
+Dhoni is very calm and cool in a crisis. The scoreboard reads 20/3 or 30/4 and the target is over 300. No problem, Dhoni calmly accumulates singles till the target is very close. Then he blasts it away. Have you seen Dhoni succumb to pressure or make rash decisions?
+
+The stock markets have crashed. All those blue chip stocks you had purchased paying a lot of money, are now dirt cheap. You are in a panic. You want to sell all these stocks. Should you sell all these good stocks and head for the exit? No…Just stay calm and cool and take control of your emotions. Tough times don’t last, tough people do. You have bought stocks with good fundamentals. Hold onto them. Just as the stock market goes down, it will also go up and all your stocks will be vibrant and shining again. You win the match.
+
+ Dhoni was born in the small town of Ranchi in Jharkhand. Not in the powerhouses of cricket…Mumbai, Karnataka, Delhi, Tamil Nadu or Punjab. Ranchi was not even on the cricketing map.
+
+The rise and rise of Dhoni shows that being born in a small town, is no hindrance to greatness. It’s all planning and effort.
+
+Dhoni’s fearless batting and wicket keeping, shows that nothing is beyond reach. Dhoni redefined the batting wicket-keeper in India. Previously, India had wicket-keepers who could bat. Dhoni could jump into any cricket team in the World, either as a batsman or a wicket-keeper. This is pure effort and grit.
+
+When it comes to investing in equity mutual funds, think SIP. Systematic Investment Plans popularly called SIP’s, are a great way to invest in equity mutual funds. You invest a certain fixed amount (small sums of money) regularly say once each month, in a specific mutual fund scheme. The small amounts you invest accumulate and grow. They enjoy the benefits of the power of compounding (whatever returns you get are reinvested and earn more returns). SIP teaches you how to start small and grow big.
+
+ Dhoni wanted to play football, before he gave it all up for cricket. For Dhoni, learning was a continuous process. He picked up the finer aspects of cricket, honing his batting and wicket keeping skills.
+
+Dhoni always learns no matter how high he grows. Dhoni never misses an opportunity to learn. Whether it’s batting tips from his coach, Dhoni always learns.
+
+You must always learn about investments, before you invest your hard earned money. Learn about life insurance and health insurance or even car insurance plans, before availing them. Never invest in stocks or equity mutual funds, without doing your research. The same holds true whether you invest in PPF, FD or even NSC. Follow the simple rule, Learn before you earn.
+
+ There are many people who help you on your road to greatness. Dhoni could never have reached such dizzying heights, without the help of first coach and mentor, Keshav Banerjee. Then the former Indian captain Sourav Ganguly spotted his talent and recommended him for a place in the Indian cricket team. The former cricketing all-round Ravi Shastri, had publicly acknowledged Dhoni as the future of Indian cricket.
+
+Dhoni is a big cricketer today, only because he followed the advice of his coach. He didn’t say why the coach wants me to practice how to play bouncers? Why not play spinners instead?
+
+When it comes to investing, always listen to your financial advisor. He will help you reach your financial goals and makes sure your needs are served.
+
+Yes…The helicopter shot and the paddle sweep played by Dhoni are great to watch on TV. You can also learn how to invest from Captain Cool. Be Wise, Get Rich.
+
+The large platform players like Google, Facebook (Messenger & Whats App), AWS, Microsoft, Baidu (yes...Baidu is as big a player, in this space, as Google) are building social applications and most are available for free.
+
+These applications are used by all mobile enabled Indians for social interactions.These users generously exchange images and sound clips across the Globe, given the vast Indian diaspora. Telco's in India charge the lowest in the world,which is another reason, the usage continually is growing. Usage data of You Tube videos, WhatsApp images, browsing data and Messenger sound clips are used to continuously train the algorithms at Google, Facebook, AWS which are in turn sold as SaaS API for consumption into the rapidly developing field of AI. The large Social Media platforms are all AI Platform vendors. By using social media applications which store data outside India, we are, adding to the corpus of data for the training of the algorithms hosted on these platform players, which is priceless.
+
+There are some barriers to entry to create an AI platform where products can be built and sold–
+
+a.) At least 1 million users with interactions among them. (1 Million - 10 Lakh)
+
+b.) Large data sets for training of Supervised machine learning algorithms
+
+c.) Engineering & Analytics Talent to create virtuous cycle data pipelines
+
+between Data and algorithms
+
+d.) Investor community who would be willing to back individuals to create an
+
+e.) A business model where application builders, advertisers and the platform for hosting player make revenue. This model has been well established at both Facebook and Baidu.
+
+If Indian AI and Machine Learning needs are to be addressed, India needs a platform on which Consumer apps or Business apps specific to Indian needs would be built. China,realized the value of social media data and has encouraged WeChat, Baidu and equivalent platforms. Today, WeChat has about the same number of users as Whatsapp....and more features and localization relevant for Chinese. An individual can raise a loan application and get a student loan….all on the mobile phone. Given that India too has this opportunity to increase Internet penetration among rural India via the Mobile platform, it is important that localization happen fast.
+
+Last but not the least, there are privacy issues in using social media applications hosted in servers outside of the country of maximum adoption. Its take a simple algorithm to match and identify all contacts via their mobile number and trace out connections, as all mobile numbers and contacts are stored in the application sever.
+
+If the BHIM app is to be used for triggering Digital inclusion and enabling Mobile payments, most would feel a lot more secure if the Aadhar number, transaction details and contacts were all stored on servers local to the Geography or covered by privacy laws of the country of residence. BHIM can only be moreuseful if there is the equivalent of WhatsApp / WeChat to enable people to engage on an easy platform AND safely exchange PII (personnel) information which can help train algorithms for unique Indian requirements like:
+
+a.) Near real time Regional language translation across all languages in India. This would lead to a multitude of use cases which serve local needs. for eg: A farmer in Karnataka can speak to his chat app on the mobile phone in Kannada, while the buyer in Nagpur can hear the output in Marathi. The technology for the above is already available from Google. The current social media / AI platforms may not allocate precious Machine Learning resources to train data sets for Kannada to Marathi to North Karnataka dialect to Punjabi to Assamese to Kashmiri. The multinational AI Platform addresses the needs of the Glocal Indian and not necessarily the local Indian. To avoid a situation of "have's" and "havenots",its important that adoption of the benefits of technology happen simultaneously at all levels of the economic totem pole. For this to happen, we would need local businesses built on local needs.
+
+b.) Image recognition solutions unique to Indian Agriculture like identifying Cotton Boll Worm in Telangana or Maharastra will only happen if the images are stored and available in geographies local to the consumption, so that analytics talent in India can build applications to leverage this data. And the farmer in remote parts of UP or Madhaya Pradesh will adapt to a 'local' chat application with more enthusiasm than wait for a few years for his daughter or son to use it in English. We would remove knowledge of English as a barrier to adoption of the benefits of technology. Pl note that India with its "Demographic Dividend" has the minimum entry criteria of 1 million users in multiple tier 2 and tier 3 across India, while we have 4 -5 Mega cities with upto 10 million population in Mumbai, Delhi, Kolkatta, Chennai followed closely by Bangalore, Hyderabad, Pune....and the list will only increase
+
+Two options come to mind to solve the above:
+
+Option 1: The large platform players get local to India and address the above needs of privacy and localization of geographical data in Machine Learning API.
+
+Option2: The large IT Service companies come together to pool prize money / ecosystem to build a Chatapps. Telco's can subsidize initial adoption by returning 10 INR a month for 1 year (nothing sells like free) for users who adopt the Chatapp hosted on an Indian AI Platform. Government can legislate for financial transactions to happen via this Chat application and AI Platform.In 6 months, we will have a core base of at least 5 million users ......and a great ecosystem to foster innovation in Machine Learning, Analytics, Digital Apps, Financial Inclusion.....as part of Make In India.
+
+A prize money of 100 Crores is about 20 Million USD…..we would have a lot of talent working on a prize money of 100 crores. More important, they would trigger the first chat app and AI platform designed, built for Indian Use cases and the API would get continuously more useful as they would be trained (Supervised Machine Learning), for contexts that are unique to Indian use cases.
+
+The above may be more useful than hearing advice from Indian IT leaders on what the impact of automation will be on the Indian IT services industry. From the doomsday scenarios painted by these leaders in the media, one wonders if they really understand AI / automation and its impact. While job destruction because of AI is imminent, the role of leaders is to lead the followers through the transition.
+
+From the above, it is a logical conclusion that Humans and AI can do a lot together, hence - AI is more about Augmented Intelligence. The best way to address the challenge of AI is to embrace the opportunities from AI, understand its potential and harvest the benefits, rather than bemoan the impact of AI.
+
+In summary:
+
+People + Trained Algorithms => Augmented Intelligence
+
+The virtuous cycle is:
+
+Loop continually: Better Data --> Fine Tune Algorithm --> Better Business Insight from applications.
+
+Exit loop, when algorithm performance equal to human performance.
+
+CEO at Info PAD Technologies
+
+When Education Goes The Trump University way
+
+To view or add a comment, sign in
+
+Academic Specialist (Chemistry)-BYJU'S
+
+Profits or losses are  a part every business in this world.
+ BYJU'S is shining, rising & will rise more & more in upcoming time 🌟
+everyone is pointing out the negative
+but no-one is considering the positive outcome in less time period 🌸 moreover 👉 If you cannot praise anyone, then you should not do evil either. 
+i guess this is not fair to judge any kind of business or any other profession 
+I will always be cheering you & always no matter what. & i am super proud to be a part of BYJU'S undoubtedly.
+
+ #world #business #outcome #rising 
+Divya Gokulnath Sunitha Krishnan  Jyothi Kasinath  Manasa Hegde Vineet Singh Sanghamitra Bhargov  
+Saurav Kumar  Roshan Rathore       Chetan Singh  C Sai Sashi Kiran  Vinay MR        Anita Kishore           Heena Muzaffar     KIRTIKA SINGLA  
+
+87 followers
+
+When Education Goes The Trump University way
+        
+
+Profits or losses are  a part every business in this world.
+ BYJU'S is shining, rising & will rise more & more in upcoming time 🌟
+everyone is pointing out the negative
+but no-one is considering the positive outcome in less time period 🌸 moreover 👉 If you cannot praise anyone, then you should not do evil either. 
+i guess this is not fair to judge any kind of business or any other profession 
+I will always be cheering you & always no matter what. & i am super proud to be a part of BYJU'S undoubtedly.
+
+ #world #business #outcome #rising 
+Divya Gokulnath Sunitha Krishnan  Jyothi Kasinath  Manasa Hegde Vineet Singh Sanghamitra Bhargov  
+Saurav Kumar  Roshan Rathore       Chetan Singh  C Sai Sashi Kiran  Vinay MR        Anita Kishore           Heena Muzaffar     KIRTIKA SINGLA  
+        
+
+Tutorate is a market leader in the segment of Financial Market Education. At Tutorate, we deliver cutting edge training to people willing to make a career in financial markets. Our programs are not ordinary “Run of the Mill” programs. Our programs bring extensive focus on “Next Generation Technologies” which give you an edge in ever competitive employment opportunities.
+
+Advertising Services
+
+New Delhi, Delhi
+
+E-Learning Providers
+
+Mental Health Care
+
+Education Administration Programs
+
+Gurgaon, Haryana
+
+or
+
+New to LinkedIn? Join now
+
+William O'Neil + Company, Incorporated is an independent advisory firm that helps the world's leading institutional investment managers increase portfolio performance by providing timely—and time-saving—global buy and sell recommendations, customized independent research, and market advice.  We also produce thoughtful research covering global investing themes as well as the most compelling equities of the moment, analyzed using our O’Neil Methodology, a blended method of stock analysis that we have perfected over more than 50 years. Our premier equity research platform PANARAY® provides access to our research and uses innovative visual displays of complex market information, placing us at the forefront of using technology to deliver our high-touch services. Founded in 1963, William O'Neil + Co. is headquartered in Los Angeles with offices in New York, Boston, Chicago, San Francisco, and London.  
+
+Financial Services
+
+Bangalore, Karnataka
+
+Boston, MA
+
+Los Angeles, California
+

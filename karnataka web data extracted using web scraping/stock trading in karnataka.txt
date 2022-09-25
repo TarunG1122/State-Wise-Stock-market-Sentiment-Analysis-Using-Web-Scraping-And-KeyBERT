@@ -1,0 +1,193 @@
+Get notified about new Stock jobs in United States.
+
+Get notified about new Lseg (london Stock Exchange Group) jobs in United States.
+
+By clicking Agree & Join, you agree to the LinkedIn User Agreement, Privacy Policy, and Cookie Policy.
+
+Already on Linkedin? Sign in
+
+Get notified about new Trading Analyst jobs in Bengaluru, Karnataka, India.
+
+Farmers want Govt to begin purchasing immediately
+
+As the new kharif moong (green gram) hits the markets in North Karnataka, prices of the pulses crop are trading lower at around ₹5,100 a quintal, much lower than the minimum support price of ₹6,975 announced by the Centre.
+
+In fact, the prevailing prices in the State are also lower than last year’s support price of ₹5,575/quintal, growers said, while demanding that the government spell out the procurement strategy for the season and begin purchasing from the markets.
+
+The CACP (Commission for Agricultural Costs and Prices) has estimated the cost of production of moong at ₹4,650 per quintal and the Centre has declared a 50 per cent increase over this as MSP for the current year.
+
+In Karnataka, moong is largely grown in the dry belts of northern parts of the State, and Gadag is a major market for the pulses crop. Prices in Gadag, where the arrivals began in last week of July, have come down steadily over the past fortnight. On July 25, the modal price in Gadag stood at ₹5,982 a quintal, which has now reduced to around ₹5,100 levels.
+
+“Average prices are hovering between ₹4,500 and ₹5,000 levels in various markets. The government should intervene immediately to stabilise the prices,” said Chamras Malipatil, Honorary President of the Karnataka Rajya Raitha Sangha and Hasiru Sene. “We are planning to stage a protest demanding a legal sanctity for the MSP in early September,
+
+Farmers, this year, have brought in more area under moong in Karnataka, one of the largest producers of the pulses crop. The widespread pre-monsoon showers in the region during May had aided the sowing in the region. Moong, one of the key pulses, has a short crop cycle and is ready to harvest within 60-65 days after planting.
+
+“The crop is looking better this year on higher yields, boosted by good rains in early June,” said Sujay Hubli, a processor of pulses based in Gadag. The trade is buying the new crop on a need basis and there’s some demand coming in from buyers in neighbouring Maharashtra, he added.
+
+However, the latest spell of rains over the past couple of days in Northern Karnataka is seen impeding the harvest. Trade sources said if the current spell of rains prolongs for more than a week then it may hurt the standing crop.
+
+India’s moong production in 2017-18 stood at 19 lakh tonnes (lt), lower than the previous year’s 21.7 lt. Production during kharif 2017 season stood at 13.9 lt, of which about 2.93 lt was procured by Nafed under the price support scheme. Bulk of the procurement — about 2.6 lt took place in Rajasthan during kharif last year, while in Karnataka it was 21,758 tonnes. Most of the green gram stocks, procured by government agencies from Karnataka and Maharashtra last year, have already been liquidated, while there are huge stocks in Rajasthan estimated at around 2.09 lt.
+
+To view or add a comment, sign in
+To view or add a comment, sign in
+
+Visit my blogs for new Fundamentally good Stocks.
+
+http://udalvi.blogspot.in/2016/02/stock-of-dayarrow-textiles.html
+
+Hey there! This article is based on our second year major project of KL University named SDP(skill development project). On this regard a research work should be published. How we interacted with the user and what are the key insights that we gained and how we are going to design our project is this article all about.
+
+Team Mates :
+
+1) VENKATA SOWMYA KANCHARLA
+
+2)KONDAVEETI SRAVANI
+
+3)YAMINI CHOWDARY VAKALAPUDI
+
+Our batch number is 485
+
+Introduction :
+
+The Stock Exchange Management System (SEM) refers to the system and processes to manage the stock of organization with the involvement of Technology system. The stock exchange represents the key institution for the development of capital market of any country. Thus the information system of every stock exchange must satisfy very strict international standards. The development of these systems is particularly difficult in countries in transition, due to intense economic and legal changes, lack of technical and financial resources, lack of experience and knowledge in the area of the capital market business, etc. Therefore the special software project management methodology for their realization must be clearly defined.
+
+Capital Market : Capital market is where both equity and debt instrument like equity shares, preference shares, debentures, bonds, etc. are bought and sold.
+
+Functions of Capital Market:
+
+Classification:
+
+There are two types of capital market
+
+1. Primary market - The primary market is a new issue market; it solely deals with the issues of new securities. A place where trading of securities is done for the first time.
+
+Functions of Primary Market:
+
+2. Secondary market - The secondary market is a place where trading takes place for existing securities. It is known as stock exchange or stock market. Here the securities are bought and sold by the investors. 
+
+Functions of Secondary Market:
+
+What actually is Stock Exchange?
+
+Stock Exchange is an association or a individual which is established for the purpose of assisting, regulating, and controlling business in buying, selling and dealing in securities.
+
+Functions of Stock Exchange:
+
+Objectives and Goals of SEM:
+
+1. To provide a fair, transparent and efficient securities market to investors using electronic trading system.
+
+2. To establish nationwide trading facility for equities and debt instruments.
+
+3.To ensure equal access to investors all over the country through an appropriate communication network.
+
+ABSTRACT:
+
+The stock exchange represents the key institution for the development of capital market of any country. Thus the information system of every stock exchange must satisfy very strict international standards. The development of these systems is particularly difficult in transition, due to intense economic and legal changes, lack of technical and financial resources, lack of experience and knowledge in the area of the capital market business, etc. Therefore the special software project management methodology for their realization must be clearly defined. In order to make all the problems more comprehensive trading method in the world is used.
+
+SURVEY:
+
+THE STOCK EXCHANGE MANAGEMENT SYSTEMS SURVEY will be conducted by our team members where we can understand the requirements of the users as well as the problems being faced by them The stock exchange represents one of the key institutions responsible for proper functioning of economy as a whole. This fact is true for all countries and helps explain why so much attention is given to regulation, monitoring and advancement of the exchanges. In order to gain the trust of all the participants in the capital market, the stock exchange is made completely transparent, so to speak, yet completely secure. It means that the trading rules on the stock exchange are known to the public, but the way in which the actual stock exchange works and the way in which these rules are implemented remains a well kept secret. Therefore no specific information can be obtained about the information systems of the stock exchange, only some general specifications of technical infrastructure.
+
+MODULES:
+
+We are thinking of four modules which consists of :
+
+1. The development of the system that would handle the trading of bonds
+
+2. Expanding the system by introducing new trading methods
+
+3. Trading with all market materials
+
+4. Introducing remote access Development and implementation of the stock exchange information system represents a responsible and difficult task, the realization of which require substantial financial resources, as well as human and technical resources. Limited material, staff and technical resources were the main factors that influenced many countries that were undergoing a period of transition to take over the stock exchange information systems of countries with developed market economies.
+
+PROJECT MANAGEMENT METHODOLOGY :
+
+Project management is mainly defined as being able to apply skills, knowledge and techniques in such a way as to finish all the necessary work and jobs that the project itself demands, or, in other words, that are vital to the successful completion of the project. Therefore the analysis was made of all previously existing project management methodologies. The conclusion drawn from this analysis was that the chosen methodology must always be clearly defined and applicable to most IT projects.
+
+Contents of the article and the concepts:
+
+I) Photos during the interaction, interviews and conducting surveys:
+
+II) Charts and graphs on surveys we conduct - using google forms survey.
+
+III) Video recording - (Interview with users)
+
+IV) Online Research Links:
+
+A number of brokerages and financial institutions provide online platforms for exchanging currency, .These platforms provide buy and sell prices, charts for trend analysis and economic reports to help with exchange decisions. Banks, hedge funds and traders use these types of platforms to speculate in currencies, trying to generate returns for their clients or themselves. Despite the risks associated with buying and selling currencies , it’s one of the best ways to exchange large sums of money.
+
+        
+
+    Online Searching portals:
+
+1.)https://www.5paisa.com/online-trading
+
+2.) https://ttweb.indiainfoline.com/trade/login.aspx
+
+3.) https://trade.angelbroking.com/
+
+4.) https://upstox.com/
+
+5.) https://www.edelweiss.in/market
+
+V) The customer journey map :
+
+One of the advantages of the stock exchange is that is enjoys economies of scale because so much money passes through it. This helps to keep costs low, making it less expensive to buy and sell stocks.
+
+A stock exchange can use millions of transactions to spread fixed costs of setting up and maintaining orderly and secure trading
+
+Our customer journey map link
+
+https://custellence.com/app/public/40207017
+
+VI) User persona :
+
+A user persona is a semi-fictional character based on your current or ideal customer. Personas can be created by talking to users and segmenting by various demographic and psychographic data to improve your product marketing.
+
+VII) Empathy Map
+
+An empathy map is a collaborative tool teams can use to gain a deeper insight into their customers. Much like a user persona, an empathy map can represent a group of users, such as a customer segment.
+
+An Affinity Diagram is a tool that gathers large amounts of ideas, opinions, issues and organizes them into groupings based on their natural relationships. The Affinity process is often used to group ideas generated by Brainstorming.
+
+Customer Journey Map:
+
+Customer journey mapping also called user journey mapping is the process of creating a visual story of your customers' interactions with your brand. This exercise helps businesses step into their customer's shoes and see their business from the customer's perspective.
+
+IX) Meeting with SDP2 Our Faculty Team (Recording)
+
+(will be updated soon)
+
+X) The Final List Of Users:
+
+Most of the people these days tend to buy stocks online; it's much easier and quicker. Therefore, it's only natural that this activity is growing more interest and desire for people to try it themselves.
+
+1)stock buyers
+
+2)stock sellers
+
+3) invested people(to keep a track on their stock prices)
+
+4) working in stock markets
+
+XI) User Stories For Each User:
+
+Note: Permission has been taken from all the people shown in this article to upload it.
+
+*********************************************
+
+All the content present in this article is original work of SDP - 2 (Batch-485)
+
+Reuse of the same content is strictly prohibited except for purposes such as criticism, comment, news reporting, teaching, scholarship and research.
+
+Author's written permission to be taken in prior to reuse the content.
+
+*************************************************
+
+Thank you!!!
+
+With the Open To Work feature, you can privately tell recruiters or publicly share with the LinkedIn community that you are looking for new job opportunities.
+
+This job is no longer available, but here are similar jobs you might like.
+
