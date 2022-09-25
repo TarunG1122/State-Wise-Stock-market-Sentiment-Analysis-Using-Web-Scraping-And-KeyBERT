@@ -72,9 +72,13 @@ The result is a list of keywords that can be used for state-wise sentiment analy
 ### Framework required to run this jupyter notebook:
 
 •	Python 3.6 and above
+
 •	Matplotlib for visualization
+
 •	keyBERT for keywords extraction
+
 •	WordCloud for graphical representation of keywords with high frequency
+
 •	Web scraping code blogs.py and facebook.py
 
 
