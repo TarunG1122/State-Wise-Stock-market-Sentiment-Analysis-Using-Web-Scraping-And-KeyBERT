@@ -42,6 +42,19 @@ The main aim of the project is state-wise stock market sentiment analysis for so
 6. Save the wordcloud model to get keywords png image, wordcloud images of both the states are saved in [wordcloud output images](https://github.com/TarunG1122/State-Wise-Stock-market-Sentiment-Analysis-Using-Web-Scraping-And-KeyBERT/tree/main/wordcloud%20output%20images).
 
 
+### Web Scraping codes :
+
+1. [blogs.py](https://github.com/TarunG1122/State-Wise-Stock-market-Sentiment-Analysis-Using-Web-Scraping-And-KeyBERT/blob/main/web%20scraping%20codes/blogs.py)
+
+blogs.py is built using pillow,pytesseract, selenium web driver, and requests. It is an automated process that runs on chrome driver and is linked with social searcher, which links to Google search, Facebook, Instagram, Twitter, and Pinterest domains. websites are opened in the order and data is extracted from all the mentioned platforms. the query parameter keeps updating based on the keywords that are related to search keywords, the maximum scrolling or website opening is set to 10, and pytesseract is used to extract data from images. output is a text (.txt) file that consists of text-based data.
+
+2. [facebook.py](https://github.com/TarunG1122/State-Wise-Stock-market-Sentiment-Analysis-Using-Web-Scraping-And-KeyBERT/blob/main/web%20scraping%20codes/facebook.py)
+
+faebook.py covers all the libraries used in blogs.py. For web scraping, the user must provide a login id and keyword list. The keyword list may contain multiple keywords. We extract text and image-based data, including comments, user names, likes, shares, dates, and data from a user's post by using libraries. Text from images is extracted by Pytessaract with a scroll limit set to 100 because Facebook has infinite scrolling. output is a text (.txt) file that consists of text-based data.
+
+
+
+
 ### Working:
 
 1.	run facebook.py, the code logs in to profile and collects data based on given search keywords, it collects data from posts and images 
